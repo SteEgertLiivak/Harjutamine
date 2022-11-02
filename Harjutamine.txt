@@ -1,1 +1,3 @@
 GitHub on veebimajutusplatvorm, mida kasutavad programmeerijad tööde salvestamiseks pilvele.
+GitHubi saab kasutada skriptide salvestamiseks arvutist ning annb mulle võimaluse neid skripte kasutada väljaspool arvutit, kus need loodi.
+GitHub loodi 14.04.2008 Tom-Preston-Werneri poolt.
